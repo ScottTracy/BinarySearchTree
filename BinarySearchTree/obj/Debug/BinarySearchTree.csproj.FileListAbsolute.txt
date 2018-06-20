@@ -1,0 +1,14 @@
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CopyComplete
+C:\projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe

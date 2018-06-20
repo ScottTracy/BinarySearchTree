@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BinarySearchTree
 {
-    class BinaryTree
+    public class BinaryTree
     {
         private Node root;
 
@@ -26,5 +26,40 @@ namespace BinarySearchTree
             root.rightChild.leftChild = new Node(69);
             root.rightChild.rightChild = new Node(89);
         }
+        public bool SearchTree(int number)
+        {
+            Node current = root;
+            if (number > root.data)
+            {
+                return SearchTree(current.rightChild, number);
+            }
+            else if (number < root.data)
+            {
+                return SearchTree(current.leftChild, number);
+            }
+            else if (number == root.data)
+            {
+                return true;
+            }
+            else return false;
+        }
+        public bool SearchTree(Node position,int number)
+        {
+            Node current = position;
+            if (number > root.data)
+            {
+                return SearchTree(current.rightChild, number);
+            }
+            else if (number < position.data)
+            {
+                return SearchTree(current.leftChild, number);
+            }
+            else if (number == position.data)
+            {
+                return true;
+            }
+            else return false;
+        }
+
     }
 }
